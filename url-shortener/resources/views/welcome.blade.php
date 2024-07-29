@@ -5,6 +5,13 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
+    <nav class="">
+        <ul>
+            <li><a href="">Home</a></li>
+            <li><a href="">Home</a></li>
+            <li><a href="">Home</a></li>
+        </ul>
+    </nav>
     <div class="container mt-5">
         <h1>URL Shortener</h1>
         @if(session('success'))
